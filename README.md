@@ -1,4 +1,4 @@
-# shoppersIntention
+# ShoppersIntention
 
 Objective – To predict whether or not a visitor to the website would generate revenue
 for it. Use the Online Shopper’s Purchasing Intention Dataset.
@@ -47,7 +47,7 @@ a given data sample is to be split into. It results in a less biased model compa
 methods. Because it ensures that every observation from the original dataset has the
 chance of appearing in training and test set.
 
-# Prediction Algorithms -
+#Prediction Algorithms -
 Logistic Regression -
 Logistic regression is named for the function used at the core of the method, the logistic
 function, also called the sigmoid function.
